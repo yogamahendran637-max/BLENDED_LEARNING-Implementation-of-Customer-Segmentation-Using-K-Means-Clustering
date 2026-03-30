@@ -45,9 +45,7 @@ Program to implement customer segmentation using K-Means clustering on the Mall 
 Developed by:Yogamahendran G 
 RegisterNumber:  212225040500
 /*
-Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: MONICA G
-RegisterNumber: 212224040198
+
 
 
 import os
